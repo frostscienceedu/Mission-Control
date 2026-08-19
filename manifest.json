@@ -1,0 +1,15 @@
+{
+  "name": "Mission Control \u2014 Survival of the Fittest",
+  "short_name": "Mission Control",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#eef4f8",
+  "theme_color": "#2f78b7",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
